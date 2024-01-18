@@ -1,4 +1,4 @@
-# Seja bem-vindo(a)!
+# Seja bem-vindo(a) ao meu Github!
 Estudante do quinto período de Sistemas de Informação, sou uma entusiasta do desenvolvimento de software, me considero uma autodidata empenhada em evoluir a cada dia 🌱
 
 Minhas principais habilidades incluem integração de APIs e programação em PHP, com foco especial em desenvolvimento web. No entanto, também desenvolvi projetos utilizando C#, .NET, Windows Forms, C++ e lidei com webhooks.<br>Estudando e me aprofundando em gerenciamento de banco de dados, tenho experiência em MySQL e SQL Server.<br/>
