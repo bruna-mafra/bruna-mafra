@@ -1,5 +1,5 @@
 # Olá, Mundo! Seja bem-vindo(a) ao meu Github!
-Estudante do quinto período de Sistemas de Informação, sou uma entusiasta do desenvolvimento de software que se considera uma autodidata empenhada em evoluir a cada dia 🌱
+Estudante do quinto período de Sistemas de Informação, sou uma entusiasta do desenvolvimento de software que se considera uma autodidata empenhada em evoluir a cada dia.
 
 
 # 💻 Meu Tech Stack:
